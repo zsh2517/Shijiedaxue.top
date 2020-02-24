@@ -1,0 +1,589 @@
+<!DOCTYPE html><html><head>
+      <title>index</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:////root/.vscode-server/extensions/shd101wyy.markdown-preview-enhanced-0.5.2/node_modules/@shd101wyy/mume/dependencies/katex/katex.min.css">
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+
+      <style>
+      /**
+ * prism.js Github theme based on GitHub's theme.
+ * @author Sam Clarke
+ */
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #333;
+  background: none;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.4;
+
+  -moz-tab-size: 8;
+  -o-tab-size: 8;
+  tab-size: 8;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: .8em;
+  overflow: auto;
+  /* border: 1px solid #ddd; */
+  border-radius: 3px;
+  /* background: #fff; */
+  background: #f5f5f5;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: .1em;
+  border-radius: .3em;
+  white-space: normal;
+  background: #f5f5f5;
+}
+
+.token.comment,
+.token.blockquote {
+  color: #969896;
+}
+
+.token.cdata {
+  color: #183691;
+}
+
+.token.doctype,
+.token.punctuation,
+.token.variable,
+.token.macro.property {
+  color: #333;
+}
+
+.token.operator,
+.token.important,
+.token.keyword,
+.token.rule,
+.token.builtin {
+  color: #a71d5d;
+}
+
+.token.string,
+.token.url,
+.token.regex,
+.token.attr-value {
+  color: #183691;
+}
+
+.token.property,
+.token.number,
+.token.boolean,
+.token.entity,
+.token.atrule,
+.token.constant,
+.token.symbol,
+.token.command,
+.token.code {
+  color: #0086b3;
+}
+
+.token.tag,
+.token.selector,
+.token.prolog {
+  color: #63a35c;
+}
+
+.token.function,
+.token.namespace,
+.token.pseudo-element,
+.token.class,
+.token.class-name,
+.token.pseudo-class,
+.token.id,
+.token.url-reference .token.variable,
+.token.attr-name {
+  color: #795da3;
+}
+
+.token.entity {
+  cursor: help;
+}
+
+.token.title,
+.token.title .token.punctuation {
+  font-weight: bold;
+  color: #1d3e81;
+}
+
+.token.list {
+  color: #ed6a43;
+}
+
+.token.inserted {
+  background-color: #eaffea;
+  color: #55a532;
+}
+
+.token.deleted {
+  background-color: #ffecec;
+  color: #bd2c00;
+}
+
+.token.bold {
+  font-weight: bold;
+}
+
+.token.italic {
+  font-style: italic;
+}
+
+
+/* JSON */
+.language-json .token.property {
+  color: #183691;
+}
+
+.language-markup .token.tag .token.punctuation {
+  color: #333;
+}
+
+/* CSS */
+code.language-css,
+.language-css .token.function {
+  color: #0086b3;
+}
+
+/* YAML */
+.language-yaml .token.atrule {
+  color: #63a35c;
+}
+
+code.language-yaml {
+  color: #183691;
+}
+
+/* Ruby */
+.language-ruby .token.function {
+  color: #333;
+}
+
+/* Markdown */
+.language-markdown .token.url {
+  color: #795da3;
+}
+
+/* Makefile */
+.language-makefile .token.symbol {
+  color: #795da3;
+}
+
+.language-makefile .token.variable {
+  color: #183691;
+}
+
+.language-makefile .token.builtin {
+  color: #0086b3;
+}
+
+/* Bash */
+.language-bash .token.keyword {
+  color: #0086b3;
+}
+
+/* highlight */
+pre[data-line] {
+  position: relative;
+  padding: 1em 0 1em 3em;
+}
+pre[data-line] .line-highlight-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  display: block;
+  width: 100%;
+}
+
+pre[data-line] .line-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: inherit 0;
+  margin-top: 1em;
+  background: hsla(24, 20%, 50%,.08);
+  background: linear-gradient(to right, hsla(24, 20%, 50%,.1) 70%, hsla(24, 20%, 50%,0));
+  pointer-events: none;
+  line-height: inherit;
+  white-space: pre;
+}
+
+pre[data-line] .line-highlight:before, 
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-start);
+  position: absolute;
+  top: .4em;
+  left: .6em;
+  min-width: 1em;
+  padding: 0 .5em;
+  background-color: hsla(24, 20%, 50%,.4);
+  color: hsl(24, 20%, 95%);
+  font: bold 65%/1.5 sans-serif;
+  text-align: center;
+  vertical-align: .3em;
+  border-radius: 999px;
+  text-shadow: none;
+  box-shadow: 0 1px white;
+}
+
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-end);
+  top: auto;
+  bottom: .4em;
+}html body{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ul,html body>ol{margin-bottom:16px}html body ul,html body ol{padding-left:2em}html body ul.no-list,html body ol.no-list{padding:0;list-style-type:none}html body ul ul,html body ul ol,html body ol ol,html body ol ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:bold;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:bold}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em !important;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::before,html body code::after{letter-spacing:-0.2em;content:"\00a0"}html body pre>code{padding:0;margin:0;font-size:.85em !important;word-break:normal;white-space:pre;background:transparent;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;font-size:.85em !important;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:before,html body pre tt:before,html body pre code:after,html body pre tt:after{content:normal}html body p,html body blockquote,html body ul,html body ol,html body dl,html body pre{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body pre,html body code{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview .pagebreak,.markdown-preview .newpage{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center !important}.markdown-preview:not([for="preview"]) .code-chunk .btn-group{display:none}.markdown-preview:not([for="preview"]) .code-chunk .status{display:none}.markdown-preview:not([for="preview"]) .code-chunk .output-div{margin-bottom:16px}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0}@media screen and (min-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{font-size:14px !important;padding:1em}}@media print{html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,0.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{padding:0 1.6em;margin-top:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc li{margin-bottom:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{list-style-type:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% -  300px);padding:2em calc(50% - 457px -  150px);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+    </head>
+    <body for="html-export">
+      <div class="mume markdown-preview  ">
+      <style>
+/* @media screen and (min-width: 914px) */
+html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
+    padding: 2em;
+}
+</style>
+<p><a href="\&#x9644;&#x5C5E;&#x4E2D;&#x5B66;\">&#x4E16;&#x754C;&#x5927;&#x5B66;&#x9644;&#x5C5E;&#x4E2D;&#x5B66;</a> | <a href="http://&#x4E16;&#x754C;&#x5927;&#x5B66;.top">&#x672C;&#x7AD9;&#xFF08;&#x5BFC;&#x822A;&#x7AD9;: &#x4E16;&#x754C;&#x5927;&#x5B66;.top&#xFF09;</a></p>
+<p><code>update: 2020-02-24 19:14</code></p>
+<p><a href="%E5%88%92%E6%B0%B4%E7%BE%A4.html">&#x6B22;&#x8FCE;&#x52A0;&#x5165;&#x5212;&#x6C34;&#x7FA4; 946339921 (QQ&#x7FA4;)</a>&#x6709;&#x5174;&#x8DA3;&#x7684;&#x8BDD;&#xFF0C;&#x65E0;&#x8BBA;&#x662F;&#x57DF;&#x540D;&#x6240;&#x6709;&#x8005;&#x8FD8;&#x662F;&#x8DEF;&#x4EBA;&#x90FD;&#x53EF;&#x4EE5;&#x8FDB;&#xFF08;&#x80FD;&#x62C9;&#x522B;&#x4EBA;&#x8FDB;&#x6765;&#x4E5F;&#x884C;&#xFF09;</p>
+<p><s>&#x6211;&#x624D;&#x77E5;&#x9053;&#x6CA1;&#x5F00;&#x653E;&#x7FA4;&#x53F7;&#x5165;&#x7FA4;&#xFF0C;&#x73B0;&#x5728;&#x53EF;&#x4EE5;&#x4E86;&#x3002;&#x3002;(&#x256F;&#x2035;&#x25A1;&#x2032;)&#x256F;&#xFE35;&#x253B;&#x2501;&#x253B;</s></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">&#x57DF;&#x540D;</th>
+<th style="text-align:left">&#x5185;&#x5BB9;</th>
+<th style="text-align:left">&#x89E3;&#x6790;</th>
+<th style="text-align:left">&#x5907;&#x6CE8;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="http://xn--rhqr3ykwbm05aegjh96c.com">&#x4E16;&#x754C;&#x9876;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x5317;&#x4EAC;&#x4EA4;&#x901A;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://cas.bjtu.edu.cn">cas.bjtu.edu.cn</a></td>
+<td style="text-align:left">emm...&#x65E2;&#x7136;&#x53EB;&#x9876;&#x6D41;&#xFF0C;&#x90A3;&#x4E48;&#x7ED9;&#x4E00;&#x4E2A;&#x9876;&#x4E0A;&#x7684;&#x4F4D;&#x7F6E;</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--rhq0kz4zzjc7w9a66k2t4b.com">&#x4E16;&#x754C;&#x8D1F;&#x4E8C;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x676D;&#x5DDE;&#x7535;&#x5B50;&#x79D1;&#x6280;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://cas.hdu.edu.cn">cas.hdu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqwbu44czhc7w9a66k2t4b.com">&#x4E16;&#x754C;&#x8D1F;&#x4E00;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x4E0A;&#x6D77;&#x4EA4;&#x901A;&#x5927;&#x5B66; <!-- 0223 NC 注册，较便宜） --></td>
+<td style="text-align:left"><a href="http://www.sjtu.edu.cn">www.sjtu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--rhqr3ykwbm05aegjn14c.com">&#x4E16;&#x754C;&#x96F6;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x5317;&#x4EAC;&#x822A;&#x7A7A;&#x822A;&#x5929;&#x5927;&#x5B66; <!-- 0223 阿里云 注册，很贵） --></td>
+<td style="text-align:left"><a href="http://www.buaa.edu.cn">www.buaa.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqwbu44czhc7w9a66k.com">&#x4E16;&#x754C;&#x4E00;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x5317;&#x4EAC;&#x5927;&#x5B66; <!-- （月初 NC 注册，较便宜） --></td>
+<td style="text-align:left"><a href="http://www.pku.edu.cn">www.pku.edu.cn</a></td>
+<td style="text-align:left">&#x5C31;&#x662F;&#x5B83;&#x5E26;&#x7684;&#x5934;(&#x256F;&#x2035;&#x25A1;&#x2032;)&#x256F;&#xFE35;&#x253B;&#x2501;&#x253B;</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--ehqza448ezhc7w9a66k.com">&#x4E16;&#x754C;&#x4E09;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x6E05;&#x534E;&#x5927;&#x5B66; <!-- 0223 NC 注册，较便宜） --></td>
+<td style="text-align:left"><a href="http://www.tsinghua.edu.cn">www.tsinghua.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--rhqr7sozbz7c7w9a66k.com">&#x4E16;&#x754C;&#x56DB;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x6E05;&#x534E;&#x5927;&#x5B66;&#x4FE1;&#x606F;&#x95E8;&#x6237;&#x7CFB;&#x7EDF; <!-- 0223 NC 注册，较便宜） --></td>
+<td style="text-align:left"><a href="http://info.tsinghua.edu.cn">info.tsinghua.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--rhqr3ykwbkyuumh6qm.com">&#x4E16;&#x754C;&#x672B;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x6B66;&#x6C49;&#x5927;&#x5B66; <!-- 0223 dynadot 注册，很便宜） --></td>
+<td style="text-align:left"><a href="http://whu.edu.cn/coremail/index.jsp">whu.edu.cn/coremail/index.jsp</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--spsr25l.xn--rhqr3ykwbkyuumh6qm.com">&#x9694;&#x58C1;.&#x4E16;&#x754C;&#x672B;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x534E;&#x4E2D;&#x79D1;&#x6280;&#x5927;&#x5B66; <!-- 0223 楼上 二级域名，零花费） --></td>
+<td style="text-align:left"><a href="http://www.hust.edu.cn">www.hust.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqwbu44czhc7w9a66khk5b.com">&#x4E16;&#x754C;&#x8D85;&#x4E00;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x4E0A;&#x6D77;&#x4EA4;&#x901A;&#x5927;&#x5B66; <!-- 0223 阿里云 注册，很贵） --></td>
+<td style="text-align:left"><a href="http://www.sjtu.edu.cn">www.sjtu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--rhq0kz4zzjc7w9a66khk5b.com">&#x4E16;&#x754C;&#x8D85;&#x4E8C;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x590D;&#x65E6;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.fudan.edu.cn">www.fudan.edu.cn</a> (&#x8DF3;&#x8F6C;&#x8282;&#x70B9;&#x672A;&#x5907;&#x6848;)</td>
+<td style="text-align:left">&#x4E0D;&#x7528;&#x8C22;&#xFF0C;&#x8FD9;&#x662F;&#x8D85;&#x4E00;&#x6D41;&#x5927;&#x5B66;&#x5E94;&#x8BE5;&#x505A;&#x7684;&#x4E8B; From. &#x8D85;&#x4E00;&#x6D41;&#x5927;&#x5B66;</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqwbu44c.com">&#x4E16;&#x4E00;&#x5927;.com</a></td>
+<td style="text-align:left">&#x5FB7;&#x91CC;&#x5370;&#x5EA6;&#x7406;&#x5DE5;&#x5B66;&#x9662; <!-- 0223 阿里云 注册，很贵） --></td>
+<td style="text-align:left"><a href="http://www.iitd.ac.in">www.iitd.ac.in</a></td>
+<td style="text-align:left">&#x5C71;&#x5927;: ???</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqx2tswbz7c7w9a7h0d.com">&#x56FD;&#x9645;&#x4E00;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x54C8;&#x5C14;&#x6EE8;&#x5DE5;&#x4E1A;&#x5927;&#x5B66; <!-- 0223 dynadot 注册，很便宜） --></td>
+<td style="text-align:left"><a href="http://www.hit.edu.cn">www.hit.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqt5ykwbm05a.com">&#x4E00;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x5EF6;&#x4E16;&#x5927;&#x5B66; <!-- 0223 dynadot 注册，很便宜） --></td>
+<td style="text-align:left"><a href="http://www.yonsei.ac.kr/en_sc/index.jsp">www.yonsei.ac.kr/en_sc/index.jsp</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gq14lt3ezrc7w9a.com">&#x53CC;&#x4E00;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x5409;&#x6797;&#x5927;&#x5B66; <!-- 0223 阿里云 注册，很贵） --></td>
+<td style="text-align:left"><a href="http://www.jlu.edu.cn">www.jlu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqwbu44czhcc35c3mh.com">&#x4E16;&#x754C;&#x7B2C;&#x4E00;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x6E56;&#x5357;&#x5B89;&#x5168;&#x6280;&#x672F;&#x804C;&#x4E1A;&#x5B66;&#x9662; <!-- 0223 dynadot 注册，很便宜） --></td>
+<td style="text-align:left"><a href="http://www.hnvist.cn">www.hnvist.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--ceto69k.xn--4gqwbwdw5st06b6ck.com">&#x5BF9;&#x9762;.&#x4E16;&#x754C;&#x4E00;&#x6D41;&#x521D;&#x4E2D;.com</a></td>
+<td style="text-align:left">&#x5C71;&#x4E1C;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.sdu.edu.cn">www.sdu.edu.cn</a></td>
+<td style="text-align:left">&#x4E16;&#x4E00;&#x5927;&#x88AB;&#x62A2;, &#x53EA;&#x80FD;&#x5C71;&#x5927;&#x9644;&#x4E2D;&#x9644;&#x5C5E;&#x5927;&#x5B66;&#x4E86;</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqwb715dnmrdgj7l4b.com">&#x4E16;&#x754C;&#x4E00;&#x6D41;&#x9000;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x4E2D;&#x56FD;&#x79D1;&#x5B66;&#x6280;&#x672F;&#x5927;&#x5B66; <!-- 0223 NC 注册，较便宜） --></td>
+<td style="text-align:left"><a href="http://www.ustc.edu.cn">www.ustc.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--114514-or7iu96e4te777c6qs.com">&#x4E16;&#x754C;114514&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x4E1C;&#x5357;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.seu.edu.cn">www.seu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--spsr25l.xn--114514-or7iu96e4te777c6qs.com">&#x9694;&#x58C1;.&#x4E16;&#x754C;114514&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x5357;&#x4EAC;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.nju.edu.cn">www.nju.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--fhqf051bun6a61s.com">&#x8003;&#x4E0D;&#x4E0A;&#x6E05;&#x534E;.com</a></td>
+<td style="text-align:left">&#x5317;&#x822A;&#x62DB;&#x751F;&#x7F51;</td>
+<td style="text-align:left"><a href="http://zs.buaa.edu.cn">zs.buaa.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqwb315bp2wdgjlj0b.com">&#x4E16;&#x754C;&#x4E00;&#x6D41;&#x8D4C;&#x573A;.com</a></td>
+<td style="text-align:left">&#x5317;&#x4EAC;&#x5927;&#x5B66;&#x7EDF;&#x4E00;&#x8EAB;&#x4EFD;&#x9A8C;&#x8BC1;</td>
+<td style="text-align:left"><a href="http://elective.pku.edu.cn">elective.pku.edu.cn</a></td>
+<td style="text-align:left">(&#x7F51;&#x9875;&#x4F7F;&#x7528;&#x4E86;frame, &#x57DF;&#x540D;&#x59CB;&#x7EC8;&#x4E3A;&#x8FD9;&#x4E2A;)</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqta056fzhcs8meqr.com">&#x4E0A;&#x6D77;&#x4E00;&#x6240;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x4E0A;&#x6D77;&#x4EA4;&#x901A;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.sjtu.edu.cn">www.sjtu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gq0do12amjcf2dl82e.com">&#x4E2D;&#x56FD;&#x7B2C;&#x4E00;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x6B66;&#x6C49;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.whu.edu.cn">www.whu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gq993al6b61x.com">&#x4E00;&#x6D41;&#x5E26;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x5C71;&#x4E1C;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.sdu.edu.cn">www.sdu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--jor.xn--4gq993al6b61x.com">&#x53CC;.&#x4E00;&#x6D41;&#x5E26;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x6B66;&#x6C49;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.whu.edu.cn">www.whu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--dlqr1xkwbm05a24ddw3e.com">&#x96F6;&#x70B9;&#x4E94;&#x6D41;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x70DF;&#x53F0;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.ytu.edu.cn">www.ytu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--48sx55etgohhk.com">&#x9AD8;&#x7B49;&#x9000;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x70DF;&#x53F0;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.ytu.edu.cn">www.ytu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqva746ffa28zl82e.com">&#x5929;&#x4E0B;&#x7B2C;&#x4E00;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x592A;&#x539F;&#x7406;&#x5DE5;&#x5927;&#x5B66;&#x5B98;&#x7F51;</td>
+<td style="text-align:left"><a href="http://www.tyut.edu.cn">www.tyut.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--pss25c1x4gukk.xn--ses554g/">&#x91CE;&#x9E21;&#x5927;&#x5B66;.&#x7F51;&#x5740;</a></td>
+<td style="text-align:left">&#x5317;&#x4EAC;&#x90AE;&#x7535;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.bupt.edu.cn">www.bupt.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqwbv98bu7vdgjjy7c.com">&#x4E16;&#x754C;&#x4E00;&#x6D41;&#x98DF;&#x5802;.com</a></td>
+<td style="text-align:left">&#x5357;&#x4EAC;&#x822A;&#x7A7A;&#x822A;&#x5929;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://nuaa.edu.cn">nuaa.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--rhq0kq4wu7vdgjjy7c.com">&#x4E16;&#x754C;&#x4E8C;&#x6D41;&#x98DF;&#x5802;.com</a></td>
+<td style="text-align:left">&#x5357;&#x660C;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.ncu.edu.cn">www.ncu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--xhq326a.xn--48st5odb533avu5e.com">&#x5C71;&#x4E1C;.&#x62D6;&#x62C9;&#x673A;&#x5B66;&#x9662;.com</a></td>
+<td style="text-align:left">&#x5C71;&#x4E1C;&#x7406;&#x5DE5;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.sdut.edu.cn">www.sdut.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--m6q.xn--48st5odb533avu5e.com">&#x517C;.&#x62D6;&#x62C9;&#x673A;&#x5B66;&#x9662;.com</a></td>
+<td style="text-align:left">&#x5C71;&#x4E1C;&#x84DD;&#x7FD4;&#x6280;&#x5E08;&#x5B66;&#x9662;</td>
+<td style="text-align:left"><a href="http://www.lxjx.cn">www.lxjx.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4kqq8fmxan1p11u.com">&#x5317;&#x5927;&#x4E8C;&#x5206;&#x6821;.com</a></td>
+<td style="text-align:left">&#x5317;&#x4EAC;&#x4FE1;&#x606F;&#x79D1;&#x6280;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.bistu.edu.cn">www.bistu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://pku.xn--rhqzbx01dxhz.top">pku.&#x4E16;&#x754C;&#x4E2D;&#x5B66;.top</a></td>
+<td style="text-align:left">&#x5317;&#x4EAC;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="https://mp.weixin.qq.com/s/hOJqPnR0wAO8p7q2IipQ8A">&#x672A;&#x540D;&#x6E56;&#x7554; &#x9759;&#x5019;&#x541B;&#x6765;</a></td>
+<td style="text-align:left">&#x672A;&#x540D;&#x6E56;&#x7554; &#x9759;&#x5019;&#x541B;&#x6765; (cr. &#x4EBA;&#x5927;&#x9644;&#x4E2D;)</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://thu.xn--rhqzbx01dxhz.top">thu.&#x4E16;&#x754C;&#x4E2D;&#x5B66;.top</a></td>
+<td style="text-align:left">&#x6E05;&#x534E;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="https://mp.weixin.qq.com/s/Q13uH8DJHW1LOEyeZLpaHw">&#x8FD9;&#x91CC;&#x6709;&#x4E00;&#x4EFD;&#x65B0;&#x5E74;&#x795D;&#x798F;</a></td>
+<td style="text-align:left">&#x8FD9;&#x91CC;&#x6709;&#x4E00;&#x4EFD;&#x65B0;&#x5E74;&#x795D;&#x798F; | RDFZ&#x9A7B;THU&#x540E;&#x63F4;&#x56E2; (cr. &#x4EBA;&#x5927;&#x9644;&#x4E2D;)</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--spsr25l.xn--rhqzbx01dxhz.top">&#x9694;&#x58C1;.&#x4E16;&#x754C;&#x4E2D;&#x5B66;.top</a></td>
+<td style="text-align:left">&#x4E2D;&#x56FD;&#x4EBA;&#x6C11;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.ruc.edu.cn">www.ruc.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://gebi.xn--rhqzbx01dxhz.top">gebi.&#x4E16;&#x754C;&#x4E2D;&#x5B66;.top</a></td>
+<td style="text-align:left">&#x4E2D;&#x56FD;&#x4EBA;&#x6C11;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.ruc.edu.cn">www.ruc.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--6kr28kk1b93rfr9c4pp.com">&#x5357;&#x65B9;&#x91CE;&#x9E21;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x5357;&#x65B9;&#x79D1;&#x6280;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://sustech.edu.cn">sustech.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqwb715dqmm7vfrsal46bp97e.com">&#x4E16;&#x754C;&#x4E00;&#x6D41;&#x9B54;&#x6CD5;&#x5B66;&#x6821;.com</a></td>
+<td style="text-align:left">wizardingworld</td>
+<td style="text-align:left"><a href="http://wizardingworld.com">wizardingworld.com</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--0xv28g5vz8fs.com">&#x970D;&#x683C;&#x6C83;&#x8328;.com</a></td>
+<td style="text-align:left">&#x4E0A;&#x6D77;&#x4EA4;&#x901A;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://electsys.sjtu.edu.cn">electsys.sjtu.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--djrq2s9zp3pqeyf.xyz">&#x6E56;&#x5317;&#x5C0F;&#x84DD;&#x7FD4;.xyz</a></td>
+<td style="text-align:left">&#x534E;&#x4E2D;&#x79D1;&#x6280;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.hust.edu.cn">www.hust.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--pss25c1c2cvb5387c.com">&#x5B87;&#x5B99;&#x5BA1;&#x8BA1;&#x5927;&#x5B66;.com</a></td>
+<td style="text-align:left">&#x5357;&#x4EAC;&#x5BA1;&#x8BA1;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.nau.edu.cn">www.nau.edu.cn</a></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--rhqt1mivscxfd8k17o.com">&#x4E16;&#x754C;&#x672B;&#x6D41;&#x7F51;&#x5427;.com</a></td>
+<td style="text-align:left">&#x6D59;&#x6C5F;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.zju.deu.cn">www.zju.deu.cn</a></td>
+<td style="text-align:left">&#x6821;&#x56ED;&#x7F51;&#x53EA;&#x8981;&#x4E0D;&#x6539;&#x5584;&#xFF0C;&#x8FD9;&#x57DF;&#x540D;&#x6211;&#x8FD8;&#x5C31;&#x4E00;&#x76F4;&#x7EED;&#x4E0B;&#x53BB;&#x4E86;</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://xn--4gqwb23au3czxh5d560bpteu96awtn60u.xn--ses554g/">&#x4E16;&#x754C;&#x4EBA;&#x53E3;&#x5047;&#x671F;&#x53CC;&#x4E00;&#x6D41;&#x5927;&#x5B66;.&#x7F51;&#x5740;</a></td>
+<td style="text-align:left">&#x90D1;&#x5DDE;&#x5927;&#x5B66;</td>
+<td style="text-align:left"><a href="http://www.zzu.edu.cn">www.zzu.edu.cn</a></td>
+<td style="text-align:left">&#x6CB3;&#x5927;&#x548C;&#x91CD;&#x5927;&#x90FD;&#x662F;&#x6211;&#x7684;&#xFF01;&#x6211;&#x5C31;&#x662F;&#x4EBA;&#x53E3;&#x5047;&#x671F;&#x53CC;&#x4E00;&#x6D41;&#xFF01;</td>
+</tr>
+</tbody>
+</table>
+<p><s>&#x5E7F;&#x544A;&#x4F4D;&#x62DB;&#x79DF;</s><br>
+<a href="index.md">markdown &#x6587;&#x4EF6;&#x4E0B;&#x8F7D;</a><br>
+&#x5982;&#x679C;&#x9700;&#x8981;&#x66F4;&#x65B0;&#x5217;&#x8868;, &#x6216;&#x8005;&#x6295;&#x7A3F;&#x5907;&#x6CE8; &#x8054;&#x7CFB; <code>zsh@zsh2517.com</code>  <a href="mailto:zsh@zsh2517.com">mailto&#x94FE;&#x63A5;</a><br>
+&#x6700;&#x597D;&#x540C;&#x65F6;&#x63D0;&#x4F9B;&#x57DF;&#x540D;&#x3001;&#x5B9E;&#x9645;&#x89E3;&#x6790;&#x5730;&#x5740;&#x3001;&#x5B66;&#x6821;&#x540D;&#x79F0;&#x3002;&#x5982;&#x679C;&#x53EF;&#x4EE5;&#x6700;&#x597D;&#x52A0;&#x4E0A;&#x6CE8;&#x518C;&#x5546;&#x548C;&#x6CE8;&#x518C;&#x65F6;&#x95F4;</p>
+<p>&#x505C;&#x66F4;&#x4E00;&#x6BB5;&#x65F6;&#x95F4;&#xFF08;&#x592A;&#x9891;&#x7E41;&#x4E86;&#x3002;&#x3002;&#x6512;&#x51E0;&#x6761;&#x4E86;&#x4E00;&#x5757;&#x53D1;&#xFF09;<br>
+&#x53EF;&#x4EE5;&#x5148;&#x53D1;&#x8FC7;&#x6765;&#xFF0C;&#x660E;&#x5929;&#x4E2D;&#x5348;&#x6216;&#x8005;&#x4E0B;&#x5348;&#x52A0;&#x4E0A;&#xFF0C;&#x4E0A;&#x5348;&#x6709;&#x8BFE;</p>
+<div style="color:red">
+<p>&#x58F0;&#x660E;: &#x8FD9;&#x4E2A;&#x7EAF;&#x5C5E;&#x5B66;&#x751F;<s>(&#x95F2;&#x75AF;&#x5E1D;)</s>&#x95F4;&#x7684;&#x5A31;&#x4E50;&#xFF0C;&#x4E0D;&#x63A5;&#x53D7;&#x63A8;&#x5E7F;&#x6216;&#x5176;&#x4ED6;&#x4E0D;&#x76F8;&#x5E72;&#x9879;&#x76EE;&#xFF0C;&#x4E5F;&#x5E0C;&#x671B;&#x62E5;&#x6709;&#x57DF;&#x540D;&#x7684;&#x7684;&#x4E0D;&#x8981;&#x968F;&#x4FBF;&#x6388;&#x6743;&#x6216;&#x8005;&#x6CDB;&#x89E3;&#x6790;&#x3001;&#x66F4;&#x6539;&#x89E3;&#x6790;&#x7B49;&#x7B49;&#x3002;</p>
+<p>&#x4E3E;&#x62A5;&#x540C;&#x6837;&#x8054;&#x7CFB;&#x4E0A;&#x9762;&#x7684;&#x90AE;&#x7BB1;</p>
+<s><p>&#x672C;&#x6708;&#x52A0;&#x6025;: &#x4E16;&#x754C;&#x4E8C;&#x6D41;&#x5927;&#x5B66;.com</p></s>
+</div>
+<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3244680&amp;c=9734353" alt="AmazingCounters.com"></a></div>
+
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    </body></html>
