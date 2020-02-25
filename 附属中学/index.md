@@ -1,5 +1,5 @@
 <a href="/">所属大学</a>
-`update: 2020-02-24 18:37`
+`update: 2020-02-25 11:15`
 
 [欢迎加入划水群 946339921 (QQ群)](../划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
@@ -18,6 +18,9 @@
 | 一流高中.com | 东北师大附中 | www.msannu.cn | |
 | 顶尖中学.com | 东北师大附中 | www.msannu.cn | |
 | 世界超一流中学.com | 临沂圣陶高中 | www.sdlyst.com | 为我校推广作出贡献 |
+| [世界一流中学.life](http://世界一流中学.life) | 山东临沂一中 | www.sdlyyz.net | 没想到啊(*≧ｍ≦*)，临沂一中竟是世一中 |
+| [世界一流中学.live](http://世界一流中学.live) | 山东临沂一中 | www.sdlyyz.net | 没想到啊(*≧ｍ≦*)，临沂一中竟是世一中 |
+
 ~~广告位招租~~
 [markdown 文件下载](index.md)
 如果需要更新列表联系 `zsh@zsh2517.com`  [mailto链接](mailto:zsh@zsh2517.com)

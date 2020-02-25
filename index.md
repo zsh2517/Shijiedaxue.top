@@ -6,7 +6,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 </style>
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2020-02-24 19:14`
+`update: 2020-02-25 11:15`
 
 [欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
@@ -24,7 +24,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | 世界末流大学.com | 武汉大学 <!-- 0223 dynadot 注册，很便宜） --> | whu.edu.cn/coremail/index.jsp |  |
 | 隔壁.世界末流大学.com | 华中科技大学 <!-- 0223 楼上 二级域名，零花费） --> | www.hust.edu.cn |  |
 | 世界超一流大学.com | 上海交通大学 <!-- 0223 阿里云 注册，很贵） --> | www.sjtu.edu.cn |  |
-| 世界超二流大学.com | 复旦大学 | www.fudan.edu.cn (跳转节点未备案) | 不用谢，这是超一流大学应该做的事 From. 超一流大学 |
+| 世界超二流大学.com | 复旦大学 | www.fudan.edu.cn (跳转节点未备案) | <!-- 不用谢，这是超一流大学应该做的事 From. 超一流大学--> |
 | 世一大.com | 德里印度理工学院 <!-- 0223 阿里云 注册，很贵） --> | www.iitd.ac.in | 山大: ??? |
 | 国际一流大学.com | 哈尔滨工业大学 <!-- 0223 dynadot 注册，很便宜） --> | www.hit.edu.cn |  |
 | 一流大学.com | 延世大学 <!-- 0223 dynadot 注册，很便宜） --> | www.yonsei.ac.kr/en_sc/index.jsp |  |
@@ -42,7 +42,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | 双.一流带学.com | 武汉大学 | www.whu.edu.cn |    |
 | 零点五流大学.com | 烟台大学 | www.ytu.edu.cn |  |
 | 高等退学.com | 烟台大学 | www.ytu.edu.cn |  |
-| 天下第一大学.com | 太原理工大学官网 | www.tyut.edu.cn |  |
+| 天下第一大学.com | 太原理工大学官网 | www.tyut.edu.cn | 反代 |
 | [野鸡大学.网址](http://野鸡大学.网址/) | 北京邮电大学 | www.bupt.edu.cn |  |
 | 世界一流食堂.com | 南京航空航天大学 | nuaa.edu.cn |  |
 | 世界二流食堂.com | 南昌大学 | www.ncu.edu.cn |  |
@@ -58,9 +58,17 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | 霍格沃茨.com | 上海交通大学 | electsys.sjtu.edu.cn |  | 
 | [湖北小蓝翔.xyz](http://湖北小蓝翔.xyz) | 华中科技大学 | www.hust.edu.cn | |
 | 宇宙审计大学.com | 南京审计大学 | www.nau.edu.cn |  |
-| 世界末流网吧.com | 浙江大学 | www.zju.deu.cn | 校园网只要不改善，这域名我还就一直续下去了 |
+| 世界末流网吧.com | 浙江大学 | www.zju.edu.cn | 校园网只要不改善，这域名我还就一直续下去了 |
 | [世界人口假期双一流大学.网址](http://世界人口假期双一流大学.网址/) | 郑州大学 | www.zzu.edu.cn | 河大和重大都是我的！我就是人口假期双一流！ |
+| 末流985.com | 四川大学 | www.scu.edu.cn |
+| 双不入流大学.com | 上海大学 | www.shu.edu.cn | 为什么0202年了我校还不支持HTTPS，我陷入了深深的思考之中 |
+| 世界软件工程大学.xyz | GitHub | github.com | 我说它是世界软件工程大学，谁赞成？谁反对？ |
+| 函授学院.世界软件工程大学.xyz | StackOverflow | stackoverflow.com | 我反对！(￣ε(#￣)☆╰╮o(￣皿￣///) |
+| 双流一大学.com | 四川大学 | www.scu.edu.cn |  | 
+| 专科南波湾.com | 华南理工大学 | www.scut.edu.cn/new |  |
 
+
+<!-- http://养鱼.natyphoon.top/ -->
 
 <!-- | [世界裤腰带最高大学.top](http://世界裤腰带最高大学.top) | 扬州大学 | www.yzu.edu.cn | 做了点微小的贡献！ | -->
 <!-- | 世界二流大学.com | 南昌大学 （十天前 阿里云 注册，很贵） | www.ncu.edu.cn | 第二 | -->
