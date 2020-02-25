@@ -6,7 +6,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 </style>
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2020-02-25 23:30`
+`update: 2020-02-25 23:59`
 
 [欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
@@ -79,10 +79,14 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 **如果开头标的日期前投稿的我没有回复或者未上榜可以重发提醒我。如果这之后发的，明天上午统一安排**
 最好同时提供域名、实际解析地址、学校名称。如果可以最好加上注册商和注册时间
 
-<div style="color:red">
-<p>声明: 这个纯属学生<s>(闲疯帝)</s>间的娱乐，不接受推广或其他不相干项目，也希望拥有域名的的不要随便授权或者泛解析、更改解析等等。</p>
-<p>举报同样联系上面的邮箱</p>
-<s><p>本月加急: 世界二流大学.com</p></s>
-</div>
+<!-- <div style="color:red"> -->
+<p>声明: 这个纯属学生<s>(闲疯帝)</s>间的娱乐，不接受推广或其他不相干项目，也希望拥有域名的的不要随便授权或者泛解析、更改解析等等。举报同样联系上面的邮箱</p>
+<!-- <s> --> <p>插播一条与<b>本站无关</b>的内容：世界二流大学.com的榜单（原作者已经留了<a href="http://世界二流大学.com">公告</a>）如果有发生了支付行为并且想退款的可以联系对方提供的二维码</p> <!-- </s> -->
+
+<s>实际上大多数人就是给了注册商也没给你，而且，刨去支付接口，我感觉用不了两天两夜吧（做一个单IP24小时限定的投票） </s>
+<!-- </div> -->
+
+<p>关于世界二流大学.com的前因<a href="https://www.zhihu.com/question/373951041/answer/1036922265">如何评价域名“世界一流大学.com”指向北京大学官网，而“世界三流大学.com”指向清华大学官网？ - 潘德尔的回答 - 知乎
+</a></p>
 
 <div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3244680&c=9734353" alt="AmazingCounters.com"></a></div>
