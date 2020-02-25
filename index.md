@@ -6,7 +6,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 </style>
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2020-02-25 16:43`
+`update: 2020-02-25 18:47`
 
 [欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
@@ -69,7 +69,8 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [世界五百本大学.club](http://世界五百本大学.club) | 南京大学 | www.nju.edu.cn | |
 | [土豆.世界五百本大学.club](http://土豆.世界五百本大学.club) | 南京大学教务系统 | elite.nju.edu.cn/jiaowu | |
 | [世界一流军事化管理<span style="font-weight: 600;">高中</span>.wtf](世界一流军事化管理高中.wtf) | 东南大学 | www.seu.edu.cn | 写作大学, 读作高中.jpg |
-
+| 附属大学.中国人民中学.com | 中国人民大学 | www.ruc.edu.cn | |
+| 市一大.com | 浙江大学 | www.zju.edu.cn | 市一大 = 杭州市一流大学 |
 
 ~~广告位招租~~
 [markdown 文件下载](index.md)
