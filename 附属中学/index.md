@@ -1,6 +1,6 @@
 <a href="/">所属大学</a>
 
-`update: 2020-02-25 18:47`
+`update: 2020-02-25 23:16`
 
 [欢迎加入划水群 946339921 (QQ群)](../划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
@@ -26,7 +26,7 @@
 | [中山公园附属中学.xyz](http://中山公园附属中学.xyz) | 武汉外国语学校 | www.wfls.com.cn | |
 | [junior.世界一流外校.xyz](http://junior.世界一流外校.xyz) | 武汉外国语学校初中部 | wefls.hbeducloud.com | |
 | 世界末流高中.com | 华中师大一中 | www.hzsdyfz.com.cn | | 
-
+| 江苏省撸猫中学.cn/yzzx | 扬州中学 | 61.155.62.52/yzzx |
 ~~广告位招租~~
 [markdown 文件下载](index.md)
 如果需要更新列表联系 `zsh@zsh2517.com`  [mailto链接](mailto:zsh@zsh2517.com)

@@ -6,7 +6,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 </style>
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2020-02-25 18:47`
+`update: 2020-02-25 23:30`
 
 [欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
@@ -71,12 +71,12 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [世界一流军事化管理<span style="font-weight: 600;">高中</span>.wtf](世界一流军事化管理高中.wtf) | 东南大学 | www.seu.edu.cn | 写作大学, 读作高中.jpg |
 | 附属大学.中国人民中学.com | 中国人民大学 | www.ruc.edu.cn | |
 | 市一大.com | 浙江大学 | www.zju.edu.cn | 市一大 = 杭州市一流大学 |
-
+| [某四非大学.club](http://某四非大学.club) | 南京工业大学 | www.njtech.edu.cn | 我来凑个热闹，嘤嘤嘤 | 
+<!-- | 世界一流野鸡大学.com | ???挂了 | https://idealclover.github.io/Worst-University-in-China | | -->
 ~~广告位招租~~
 [markdown 文件下载](index.md)
-停更一段时间（太频繁了。。攒几条了一块发）
-可以先发过来，明天中午或者下午加上，上午有课
 如果需要更新列表, 或者投稿备注 联系 `zsh@zsh2517.com`  [mailto链接](mailto:zsh@zsh2517.com)
+**如果开头标的日期前投稿的我没有回复或者未上榜可以重发提醒我。如果这之后发的，明天上午统一安排**
 最好同时提供域名、实际解析地址、学校名称。如果可以最好加上注册商和注册时间
 
 <div style="color:red">
