@@ -6,7 +6,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 </style>
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2020-02-26 14:29`
+`update: 2020-02-26 22:56`
 
 [欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
@@ -36,7 +36,9 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | 世界114514流大学.com | 东南大学 | www.seu.edu.cn |  |
 | 隔壁.世界114514流大学.com | 南京大学 | www.nju.edu.cn |  |
 | 考不上清华.com | 北航招生网 | zs.buaa.edu.cn |  |
-| 世界一流赌场.com | 北京大学统一身份验证 | elective.pku.edu.cn | (网页使用了frame, 域名始终为这个) |
+| 世界一流赌场.com | 北大选课网 | elective.pku.edu.cn | (网页使用了frame, 域名始终为这个) |
+| 503.世界一流大学.com | 北大选课网 | elective.pku.edu.cn | (网页使用了frame, 域名始终为这个) |
+| 掉课.世界一流大学.com | 北大选课网 | elective.pku.edu.cn | (网页使用了frame, 域名始终为这个) |
 | 上海一所大学.com | 上海交通大学 | www.sjtu.edu.cn |  |
 | 中国第一大学.com | 武汉大学 | www.whu.edu.cn |  |
 | 一流带学.com | 山东大学 | www.sdu.edu.cn |  |
@@ -72,8 +74,8 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [世界一流军事化管理<span style="font-weight: 600;">高中</span>.wtf](世界一流军事化管理高中.wtf) | 东南大学 | www.seu.edu.cn | 写作大学, 读作高中.jpg |
 | 附属大学.中国人民中学.com | 中国人民大学 | www.ruc.edu.cn | |
 | 市一大.com | 浙江大学 | www.zju.edu.cn | 市一大 = 杭州市一流大学 |
-| [某四非大学.club](http://某四非大学.club) | 南京工业大学 | www.njtech.edu.cn | 我来凑个热闹，嘤嘤嘤 | 
-| 中国周考大学.com | 北京交通大学 | jwc.bjtu.edu.cn |
+| [世界四非大学.com](http://世界四非大学.com) | 南京工业大学 | www.njtech.edu.cn | 我来凑个热闹，嘤嘤嘤 | 
+| 中国周考大学.com | 北京交通大学 | jwc.bjtu.edu.cn |（我们学校考试多 人称北下关周考大学（逃 |
 | 世界限流大学.com | 中山大学 | www.sysu.edu.cn | |
 | 双鸭山大学.com | 中山大学 | www.sysu.edu.cn | |
 | 宇宙一流大学.com | 对外经济贸易大学 | www.uibe.edu.cn | |
@@ -82,6 +84,8 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [隔壁小区.南京理工幼儿园.top](http://隔壁小区.南京理工幼儿园.top) | 南京理工大学 | www.njust.edu.cn |
 | 双口斯坦福.com | 河北工业大学 | www.hebut.edu.cn | 
 | [世界双非大学.xyz](http://世界双非大学.xyz) | 中国科学院大学 | www.ucas.ac.cn/site/11 | | 
+| 北下关幼儿园.xyz | 北京交通大学 | bjtu.edu.cn | |
+<!-- | 世界吃饭大学.com |  -->
 <!-- | 世界一流野鸡大学.com | ???挂了 | https://idealclover.github.io/Worst-University-in-China | | -->
 ~~广告位招租~~
 [markdown 文件下载](index.md)
