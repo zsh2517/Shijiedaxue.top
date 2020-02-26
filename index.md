@@ -6,7 +6,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 </style>
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2020-02-26 12:12`
+`update: 2020-02-26 14:29`
 
 [欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
@@ -25,9 +25,10 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | 隔壁.世界末流大学.com | 华中科技大学 <!-- 0223 楼上 二级域名，零花费） --> | www.hust.edu.cn |  |
 | 世界超一流大学.com | 上海交通大学 <!-- 0223 阿里云 注册，很贵） --> | www.sjtu.edu.cn |  |
 | 世界超二流大学.com | 复旦大学 | www.fudan.edu.cn | <!-- 不用谢，这是超一流大学应该做的事 From. 超一流大学--> |
-| 世一大.com | 德里印度理工学院 <!-- 0223 阿里云 注册，很贵） --> | www.iitd.ac.in | 山大: ??? |
 | 国际一流大学.com | 哈尔滨工业大学 <!-- 0223 dynadot 注册，很便宜） --> | www.hit.edu.cn |  |
 | 一流大学.com | 延世大学 <!-- 0223 dynadot 注册，很便宜） --> | www.yonsei.ac.kr/en_sc/index.jsp |  |
+| [世界一流高校.top](世界一流高校.top) | 河南大学 | www.henu.edu.cn |
+| 世一大.com | 德里印度理工学院 <!-- 0223 阿里云 注册，很贵） --> | www.iitd.ac.in | 山大: ??? |
 | 双一流大学.com | 吉林大学 <!-- 0223 阿里云 注册，很贵） --> | www.jlu.edu.cn |  |
 | 世界第一大学.com | 湖南安全技术职业学院 <!-- 0223 dynadot 注册，很便宜） --> | www.hnvist.cn |  |
 | 对面.世界一流初中.com | 山东大学 | www.sdu.edu.cn | 世一大被抢, 只能山大附中附属大学了 |
@@ -72,20 +73,20 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | 附属大学.中国人民中学.com | 中国人民大学 | www.ruc.edu.cn | |
 | 市一大.com | 浙江大学 | www.zju.edu.cn | 市一大 = 杭州市一流大学 |
 | [某四非大学.club](http://某四非大学.club) | 南京工业大学 | www.njtech.edu.cn | 我来凑个热闹，嘤嘤嘤 | 
-| 中国周考大学.com | 北京交通大学 | jwc.bjtu.edu.cn | 世界限流大学.com | 中山大学 | www.sysu.edu.cn | |
-| 双鸭山大学.com | | 中山大学 | www.sysu.edu.cn | |
+| 中国周考大学.com | 北京交通大学 | jwc.bjtu.edu.cn |
+| 世界限流大学.com | 中山大学 | www.sysu.edu.cn | |
+| 双鸭山大学.com | 中山大学 | www.sysu.edu.cn | |
 | 宇宙一流大学.com | 对外经济贸易大学 | www.uibe.edu.cn | |
-| [中国大学.best](http://中国大学.best) | 清华 | www.tsinghua.edu.cn |
-| [隔壁.中国大学.best](http://隔壁.中国大学.best) | 北大 | www.pku.edu.cn | |
+| [中国大学.best](http://中国大学.best) | 清华大学 | www.tsinghua.edu.cn |
+| [隔壁.中国大学.best](http://隔壁.中国大学.best) | 北京大学 | www.pku.edu.cn | |
 | [隔壁小区.南京理工幼儿园.top](http://隔壁小区.南京理工幼儿园.top) | 南京理工大学 | www.njust.edu.cn |
 | 双口斯坦福.com | 河北工业大学 | www.hebut.edu.cn | 
 | [世界双非大学.xyz](http://世界双非大学.xyz) | 中国科学院大学 | www.ucas.ac.cn/site/11 | | 
-
 <!-- | 世界一流野鸡大学.com | ???挂了 | https://idealclover.github.io/Worst-University-in-China | | -->
 ~~广告位招租~~
 [markdown 文件下载](index.md)
 如果需要更新列表, 或者投稿备注 联系 `zsh@zsh2517.com`  [mailto链接](mailto:zsh@zsh2517.com)
-**如果开头标的日期前投稿的我没有回复或者未上榜可以重发提醒我。如果这之后发的，明天上午统一安排**
+**如果开头标的日期 2020-02-26 12:12 前投稿的我没有回复或者未上榜可以重发提醒我。**
 最好同时提供域名、实际解析地址、学校名称。如果可以最好加上注册商和注册时间
 
 <!-- <div style="color:red"> -->
