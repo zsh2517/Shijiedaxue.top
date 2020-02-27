@@ -6,7 +6,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 </style>
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2020-02-26 22:56`
+`update: 2020-02-27 17:02`
 
 [欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
@@ -84,7 +84,14 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [隔壁小区.南京理工幼儿园.top](http://隔壁小区.南京理工幼儿园.top) | 南京理工大学 | www.njust.edu.cn |
 | 双口斯坦福.com | 河北工业大学 | www.hebut.edu.cn | 
 | [世界双非大学.xyz](http://世界双非大学.xyz) | 中国科学院大学 | www.ucas.ac.cn/site/11 | | 
-| 北下关幼儿园.xyz | 北京交通大学 | bjtu.edu.cn | |
+| [北下关幼儿园.xyz]() | 北京交通大学 | bjtu.edu.cn | |
+| [rejectedby.stanford.edu](http://rejectedby.stanford.edu) | University of California, Berkeley(加州大学伯克利分校) | www.berkeley.edu | 官&nbsp;&nbsp;&nbsp;方&nbsp;&nbsp;&nbsp;玩&nbsp;&nbsp;&nbsp;梗 |
+| 安全局岗前培训中心.cn | 国际关系学院 | www.uir.cn | 
+| [上方山皇家养老院.top](http://上方山皇家养老院.top) | 苏州大学文正学院 | www.sdwz.cn |
+| 世界吃饭大学.com | 南京师范大学 | (似乎无法打开？) | 
+| [国内一流国际知名.top](国内一流国际知名.top) | 西安电子科技大学 | www.xidian.edu.cn |
+| [德玛西亚第一大学.xyz](http://德玛西亚第一大学.xyz) | 重庆师范大学涉外商贸学院 | www.swsm.edu.cn | 资深玩家|
+
 <!-- | 世界吃饭大学.com |  -->
 <!-- | 世界一流野鸡大学.com | ???挂了 | https://idealclover.github.io/Worst-University-in-China | | -->
 ~~广告位招租~~

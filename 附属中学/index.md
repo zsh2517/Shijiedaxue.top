@@ -1,6 +1,12 @@
+<style>
+/* @media screen and (min-width: 914px) */
+html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
+    padding: 2em;
+}
+</style>
 <a href="/">所属大学</a>
 
-`update: 2020-02-26 14:29`
+`update: 2020-02-27 17:02`
 
 [欢迎加入划水群 946339921 (QQ群)](../划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
