@@ -6,7 +6,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 </style>
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2020-02-27 17:02`
+`update: 2020-02-28 23:13`
 
 [欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
@@ -27,7 +27,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | 世界超二流大学.com | 复旦大学 | www.fudan.edu.cn | <!-- 不用谢，这是超一流大学应该做的事 From. 超一流大学--> |
 | 国际一流大学.com | 哈尔滨工业大学 <!-- 0223 dynadot 注册，很便宜） --> | www.hit.edu.cn |  |
 | 一流大学.com | 延世大学 <!-- 0223 dynadot 注册，很便宜） --> | www.yonsei.ac.kr/en_sc/index.jsp |  |
-| [世界一流高校.top](世界一流高校.top) | 河南大学 | www.henu.edu.cn |
+| [世界一流高校.top](http://世界一流高校.top) | 河南大学 | www.henu.edu.cn |
 | 世一大.com | 德里印度理工学院 <!-- 0223 阿里云 注册，很贵） --> | www.iitd.ac.in | 山大: ??? |
 | 双一流大学.com | 吉林大学 <!-- 0223 阿里云 注册，很贵） --> | www.jlu.edu.cn |  |
 | 世界第一大学.com | 湖南安全技术职业学院 <!-- 0223 dynadot 注册，很便宜） --> | www.hnvist.cn |  |
@@ -71,10 +71,10 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | 专科南波湾.com | 华南理工大学 | www.scut.edu.cn/new |  |
 | [世界五百本大学.club](http://世界五百本大学.club) | 南京大学 | www.nju.edu.cn | |
 | [土豆.世界五百本大学.club](http://土豆.世界五百本大学.club) | 南京大学教务系统 | elite.nju.edu.cn/jiaowu | |
-| [世界一流军事化管理<span style="font-weight: 600;">高中</span>.wtf](世界一流军事化管理高中.wtf) | 东南大学 | www.seu.edu.cn | 写作大学, 读作高中.jpg |
+| [世界一流军事化管理<span style="font-weight: 600;">高中</span>.wtf](http://世界一流军事化管理高中.wtf) | 东南大学 | www.seu.edu.cn | 写作大学, 读作高中.jpg |
 | 附属大学.中国人民中学.com | 中国人民大学 | www.ruc.edu.cn | |
 | 市一大.com | 浙江大学 | www.zju.edu.cn | 市一大 = 杭州市一流大学 |
-| [世界四非大学.com](http://世界四非大学.com) | 南京工业大学 | www.njtech.edu.cn | 我来凑个热闹，嘤嘤嘤 | 
+| [世界四非大学.com](http://世界四非大学.com) | 南京工业大学 | www.njtech.edu.cn | 我来凑个热闹，嘤嘤嘤 ipv6✔️ CDN✔️ 显示中文域名✔️ https❌| 
 | 中国周考大学.com | 北京交通大学 | jwc.bjtu.edu.cn |（我们学校考试多 人称北下关周考大学（逃 |
 | 世界限流大学.com | 中山大学 | www.sysu.edu.cn | |
 | 双鸭山大学.com | 中山大学 | www.sysu.edu.cn | |
@@ -84,14 +84,14 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [隔壁小区.南京理工幼儿园.top](http://隔壁小区.南京理工幼儿园.top) | 南京理工大学 | www.njust.edu.cn |
 | 双口斯坦福.com | 河北工业大学 | www.hebut.edu.cn | 
 | [世界双非大学.xyz](http://世界双非大学.xyz) | 中国科学院大学 | www.ucas.ac.cn/site/11 | | 
-| [北下关幼儿园.xyz]() | 北京交通大学 | bjtu.edu.cn | |
+| [北下关幼儿园.xyz](http://北下关幼儿园.xyz) | 北京交通大学 | bjtu.edu.cn | |
 | [rejectedby.stanford.edu](http://rejectedby.stanford.edu) | University of California, Berkeley(加州大学伯克利分校) | www.berkeley.edu | 官&nbsp;&nbsp;&nbsp;方&nbsp;&nbsp;&nbsp;玩&nbsp;&nbsp;&nbsp;梗 |
 | 安全局岗前培训中心.cn | 国际关系学院 | www.uir.cn | 
-| [上方山皇家养老院.top](http://上方山皇家养老院.top) | 苏州大学文正学院 | www.sdwz.cn |
+| [上方山皇家养老院.xyz](http://上方山皇家养老院.xyz) | 苏州大学文正学院 | www.sdwz.cn |
 | 世界吃饭大学.com | 南京师范大学 | (似乎无法打开？) | 
-| [国内一流国际知名.top](国内一流国际知名.top) | 西安电子科技大学 | www.xidian.edu.cn |
+| [国内一流国际知名.top](http://国内一流国际知名.top) | 西安电子科技大学 | www.xidian.edu.cn |
 | [德玛西亚第一大学.xyz](http://德玛西亚第一大学.xyz) | 重庆师范大学涉外商贸学院 | www.swsm.edu.cn | 资深玩家|
-
+| [世界一流军火.top](http://世界一流军火.top) | 南京理工大学校史馆 | xsg.njust.edu.cn |
 <!-- | 世界吃饭大学.com |  -->
 <!-- | 世界一流野鸡大学.com | ???挂了 | https://idealclover.github.io/Worst-University-in-China | | -->
 ~~广告位招租~~
@@ -110,4 +110,5 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 <p>关于世界二流大学.com的前因<a href="https://www.zhihu.com/question/373951041/answer/1036922265">如何评价域名“世界一流大学.com”指向北京大学官网，而“世界三流大学.com”指向清华大学官网？ - 潘德尔的回答 - 知乎
 </a></p>
 
-<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3244680&c=9734353" alt="AmazingCounters.com"></a></div>
+<!-- <div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="https://cc.amazingcounters.com/counter.php?i=3244680&c=9734353" alt="AmazingCounters.com"></a></div> -->
+<p style="align: center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3244680&amp;c=9734353" alt="AmazingCounters.com"/></a></p>
