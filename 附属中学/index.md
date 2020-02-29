@@ -6,7 +6,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 </style>
 <a href="/">所属大学</a>
 
-`update: 2020-02-27 17:02`
+`update: 2020-02-29 21:54`
 
 [欢迎加入划水群 946339921 (QQ群)](../划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
@@ -34,6 +34,9 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | 世界末流高中.com | 华中师大一中 | www.hzsdyfz.com.cn | | 
 | 江苏省撸猫中学.cn/yzzx | 扬州中学 | [61.155.62.52/yzzx](61.155.62.52/yzzx) |
 | [宝龙娱乐中学.club/yzzx](http://宝龙娱乐中学.club/yzzx/) | 江苏省扬州中学 | www.yzzx.org/yzzx/ |
+| [世界一流高中.top](http://世界一流高中.top) | 华南师范大学附属中学 | www.hsfz.net.cn |
+| [国际部.世界一流高中.top](http://国际部.世界一流高中.top) | 华南师范大学附属中学国际部 | gdhfi.com |
+
 ~~广告位招租~~
 [markdown 文件下载](index.md)
 如果需要更新列表联系 `zsh@zsh2517.com`  [mailto链接](mailto:zsh@zsh2517.com)
