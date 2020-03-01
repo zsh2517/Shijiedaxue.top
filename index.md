@@ -6,7 +6,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 </style>
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2020-02-29 21:53`
+`update: 2020-03-01 19:47`
 
 [欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
@@ -95,6 +95,10 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [海底捞大学.网址](http://海底捞大学.网址) | 中国传媒大学 | www.cuc.edu.cn |
 | [隔壁.海底捞大学.网址](http://隔壁.海底捞大学.网址) | 北京第二外国语学院 | www.bisu.edu.cn |
 | [大专.世界一流高中.top](http://大专.世界一流高中.top) | 华南师范大学 | www.scnu.edu.cn | 
+| [中国分校.美国.西北大学.top](http://中国分校.美国.西北大学.top) | 西北大学（中国） | www.nwu.edu.cn |
+| 不用军训大学.com | 暨南大学 | www.jnu.edu.cn | 
+
+
 <!-- | 世界吃饭大学.com |  -->
 <!-- | 世界一流野鸡大学.com | ???挂了 | https://idealclover.github.io/Worst-University-in-China | | -->
 ~~广告位招租~~
