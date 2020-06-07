@@ -4,13 +4,16 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
     padding: 2em;
 }
 </style>
+
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2020-03-01 19:47`
+`update: 2020-03-23 09:34`
 
-[欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
+<!-- [欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行） -->
 
-~~我才知道没开放群号入群，现在可以了。。(╯‵□′)╯︵┻━┻~~
+<!-- ~~我才知道没开放群号入群，现在可以了。。(╯‵□′)╯︵┻━┻~~ -->
 
 | 域名 | 内容 | 解析 | 备注 |
 | :-- | :-- | :-- | :-- |
@@ -88,7 +91,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [rejectedby.stanford.edu](http://rejectedby.stanford.edu) | University of California, Berkeley(加州大学伯克利分校) | www.berkeley.edu | 官&nbsp;&nbsp;&nbsp;方&nbsp;&nbsp;&nbsp;玩&nbsp;&nbsp;&nbsp;梗 |
 | 安全局岗前培训中心.cn | 国际关系学院 | www.uir.cn | 
 | [上方山皇家养老院.xyz](http://上方山皇家养老院.xyz) | 苏州大学文正学院 | www.sdwz.cn |
-| 世界吃饭大学.com | 南京师范大学 | (似乎无法打开？) | 
+| 世界吃饭大学.com | 南京师范大学 | www.njnu.edu.cn | 
 | [国内一流国际知名.top](http://国内一流国际知名.top) | 西安电子科技大学 | www.xidian.edu.cn |
 | [德玛西亚第一大学.xyz](http://德玛西亚第一大学.xyz) | 重庆师范大学涉外商贸学院 | www.swsm.edu.cn | 资深玩家|
 | [世界一流军火.top](http://世界一流军火.top) | 南京理工大学校史馆 | xsg.njust.edu.cn |
@@ -97,8 +100,15 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [大专.世界一流高中.top](http://大专.世界一流高中.top) | 华南师范大学 | www.scnu.edu.cn | 
 | [中国分校.美国.西北大学.top](http://中国分校.美国.西北大学.top) | 西北大学（中国） | www.nwu.edu.cn |
 | 不用军训大学.com | 暨南大学 | www.jnu.edu.cn | 
-
-
+| 光速退学.com | 中国石油大学（北京） | www.cup.edu.cn |
+| 隔壁.光速退学.com | 中国石油大学（华东） | www.upc.edu.cn |
+| [韩庄乡男子技校.top](http://韩庄乡男子技校.top) | 华北电力大学（保定） | net.ncepu.edu.cn | 
+| 世界地沟油大学.com | 中国石油大学（华东） |www.upc.edu.cn |
+| 真.世界地沟油大学.com | 中国石油大学（北京） | www.cup.edu.cn |  
+| [世界知名土豆.xyz](http://世界知名土豆.xyz/) | 华北理工大学教务系统 | xjw1.ncst.edu.cn | 欢迎大家来曹妃甸吃土豆 | 
+| 世界第一名校.com | 哈尔滨体育学院 | www.hrbipe.edu.cn | |  
+| [华北停水停电大学.xyz](http://华北停水停电大学.xyz) | 华北电力大学(北京) | mail.ncepu.edu.cn |  |
+| [虚假的.多伦多大学.com](https://虚假的.多伦多大学.com) | University Of Toronto Mississauga | https://www.utm.utoronto.ca/ | |
 <!-- | 世界吃饭大学.com |  -->
 <!-- | 世界一流野鸡大学.com | ???挂了 | https://idealclover.github.io/Worst-University-in-China | | -->
 ~~广告位招租~~
