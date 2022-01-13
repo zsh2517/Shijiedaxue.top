@@ -5,37 +5,34 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 }
 </style>
 
-<!-- <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script> -->
-
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2022-01-13 11:17`
+`update: 2022-01-13 11:17`，**如果此日期前投稿的我没有回复或者未上榜可以重发提醒我。**
 
-<!-- [欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行） -->
+如果你希望在公开场合引用本网站，尽量 @ 一下我（Bilibili @[zsh2517](https://space.bilibili.com/87052411)，GitHub [zsh2517/Shijiedaxue.top](https://github.com/zsh2517/Shijiedaxue.top)）
 
-<!-- ~~我才知道没开放群号入群，现在可以了。。(╯‵□′)╯︵┻━┻~~ -->
 <!-- | ~~世界零流大学.com~~ | 北京航空航天大学 0223 阿里云 注册，很贵） | www.buaa.edu.cn | 目前已经关闭 | -->
 
 | 域名 | 内容 | 解析 | 备注 |
 | :-- | :-- | :-- | :-- |
 | 世界顶流大学.com | 北京交通大学 | cas.bjtu.edu.cn | emm...既然叫顶流，那么给一个顶上的位置 --admin |
 | 世界负二流大学.com | 杭州电子科技大学 | cas.hdu.edu.cn |  |
-| 世界负一流大学.com | 上海交通大学 <!-- 0223 NC 注册，较便宜） --> | www.sjtu.edu.cn |  |
-| 世界一流大学.com | 北京大学 <!-- （月初 NC 注册，较便宜） --> | www.pku.edu.cn | 就是它带的头(╯‵□′)╯︵┻━┻ |
-| 世界三流大学.com | 清华大学 <!-- 0223 NC 注册，较便宜） --> | www.tsinghua.edu.cn |  |
-| 世界四流大学.com | 清华大学信息门户系统 <!-- 0223 NC 注册，较便宜） --> | info.tsinghua.edu.cn |  |
-| 世界末流大学.com | 武汉大学 <!-- 0223 dynadot 注册，很便宜） --> | whu.edu.cn/coremail/index.jsp |  |
-| 隔壁.世界末流大学.com | 华中科技大学 <!-- 0223 楼上 二级域名，零花费） --> | www.hust.edu.cn |  |
-| 世界超一流大学.com | 上海交通大学 <!-- 0223 阿里云 注册，很贵） --> | www.sjtu.edu.cn |  |
-| 世界超二流大学.com | 复旦大学 | www.fudan.edu.cn | <!-- 不用谢，这是超一流大学应该做的事 From. 超一流大学--> |
-| 国际一流大学.com | 哈尔滨工业大学 <!-- 0223 dynadot 注册，很便宜） --> | www.hit.edu.cn |  |
-| 一流大学.com | 延世大学 <!-- 0223 dynadot 注册，很便宜） --> | www.yonsei.ac.kr/en_sc/index.jsp |  |
+| 世界负一流大学.com | 上海交通大学 | www.sjtu.edu.cn |  |
+| 世界一流大学.com | 北京大学 | www.pku.edu.cn | 就是它带的头(╯‵□′)╯︵┻━┻ |
+| 世界三流大学.com | 清华大学 | www.tsinghua.edu.cn |  |
+| 世界四流大学.com | 清华大学信息门户系统 | info.tsinghua.edu.cn |  |
+| 世界末流大学.com | 武汉大学 | whu.edu.cn/coremail/index.jsp |  |
+| 隔壁.世界末流大学.com | 华中科技大学 | www.hust.edu.cn |  |
+| 世界超一流大学.com | 上海交通大学 | www.sjtu.edu.cn |  |
+| 世界超二流大学.com | 复旦大学 | www.fudan.edu.cn | |
+| 国际一流大学.com | 哈尔滨工业大学 | www.hit.edu.cn |  |
+| 一流大学.com | 延世大学 | www.yonsei.ac.kr/en_sc/index.jsp |  |
 | [世界一流高校.top](http://世界一流高校.top) | 河南大学 | www.henu.edu.cn |
-| 世一大.com | 德里印度理工学院 <!-- 0223 阿里云 注册，很贵） --> | www.iitd.ac.in | 山大: ??? |
-| 双一流大学.com | 吉林大学 <!-- 0223 阿里云 注册，很贵） --> | www.jlu.edu.cn |  |
-| 世界第一大学.com | 湖南安全技术职业学院 <!-- 0223 dynadot 注册，很便宜） --> | www.hnvist.cn |  |
+| 世一大.com | 德里印度理工学院 | www.iitd.ac.in | 山大: ??? |
+| 双一流大学.com | 吉林大学 | www.jlu.edu.cn |  |
+| 世界第一大学.com | 湖南安全技术职业学院 | www.hnvist.cn |  |
 | 对面.世界一流初中.com | 山东大学 | www.sdu.edu.cn | 世一大被抢, 只能山大附中附属大学了 |
-| 世界一流退学.com | 中国科学技术大学 <!-- 0223 NC 注册，较便宜） --> | www.ustc.edu.cn |  |
+| 世界一流退学.com | 中国科学技术大学 | www.ustc.edu.cn |  |
 | 世界114514流大学.com | 东南大学 | www.seu.edu.cn |  |
 | 隔壁.世界114514流大学.com | 南京大学 | www.nju.edu.cn |  |
 | 考不上清华.com | 北航招生网 | zs.buaa.edu.cn |  |
@@ -113,21 +110,28 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [世一大.com](http://世一大.com) | 安徽大学 | www.ahu.edu.cn | 安徽说唱大专 |
 <!-- | 世界吃饭大学.com |  -->
 <!-- | 世界一流野鸡大学.com | ???挂了 | https://idealclover.github.io/Worst-University-in-China | | -->
+
 ~~广告位招租~~
+
 [markdown 文件下载](index.md)
+
 如果需要更新列表, 或者投稿备注 联系 `zsh@zsh2517.com`  [mailto链接](mailto:zsh@zsh2517.com)
-**如果开头标的日期 2022-01-13 11:17 前投稿的我没有回复或者未上榜可以重发提醒我。**
+
 最好同时提供域名、实际解析地址、学校名称。如果可以最好加上注册商和注册时间
 
-<!-- <div style="color:red"> -->
-<p>声明: 这个纯属学生<s>(闲疯帝)</s>间的娱乐，不接受推广或其他不相干项目，也希望拥有域名的的不要随便授权或者泛解析、更改解析等等。举报同样联系上面的邮箱</p>
-<!-- <s> --> <p>插播一条与<b>本站无关</b>的内容：世界二流大学.com的榜单（原作者已经留了<a href="http://世界二流大学.com">公告</a>）如果有发生了支付行为并且想退款的可以联系对方提供的二维码</p> <!-- </s> -->
+[欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行）
 
-<s>实际上大多数人就是给了注册商也没给你，而且，刨去支付接口，我感觉用不了两天两夜吧（做一个单IP24小时限定的投票） </s>
-<!-- </div> -->
+~~我才知道没开放群号入群，现在可以了。。(╯‵□′)╯︵┻━┻~~
 
-<p>关于世界二流大学.com的前因<a href="https://www.zhihu.com/question/373951041/answer/1036922265">如何评价域名“世界一流大学.com”指向北京大学官网，而“世界三流大学.com”指向清华大学官网？ - 潘德尔的回答 - 知乎
-</a></p>
+---
+
+本项目上次更新是 2020 年 7 月，之后的一年半内，中间有过多次投稿但是当时懒得搞了
+
+之后最近两天（2022-01-13 前），突然连续多了四个投稿，想了想，还是加上了
+
+后续将继续开放征集
+
+---
 
 <!-- <div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="https://cc.amazingcounters.com/counter.php?i=3244680&c=9734353" alt="AmazingCounters.com"></a></div> -->
 <p style="align: center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3244680&amp;c=9734353" alt="AmazingCounters.com"/></a></p>
