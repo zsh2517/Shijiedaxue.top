@@ -36,6 +36,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [宝龙娱乐中学.club/yzzx](http://宝龙娱乐中学.club/yzzx/) | 江苏省扬州中学 | www.yzzx.org/yzzx/ |
 | [世界一流高中.top](http://世界一流高中.top) | 华南师范大学附属中学 | www.hsfz.net.cn |
 | [国际部.世界一流高中.top](http://国际部.世界一流高中.top) | 华南师范大学附属中学国际部 | gdhfi.com |
+| [世界一流高中.tk](http://世界一流高中.tk) | 合肥市第一中学 | www.hfyz.net |
 
 ~~广告位招租~~
 [markdown 文件下载](index.md)

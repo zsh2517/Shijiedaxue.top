@@ -9,7 +9,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2020-03-23 09:34`
+`update: 2022-01-13 11:17`
 
 <!-- [欢迎加入划水群 946339921 (QQ群)](划水群.html)有兴趣的话，无论是域名所有者还是路人都可以进（能拉别人进来也行） -->
 
@@ -108,13 +108,15 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [世界知名土豆.xyz](http://世界知名土豆.xyz/) | 华北理工大学教务系统 | xjw1.ncst.edu.cn | 欢迎大家来曹妃甸吃土豆 | 
 | 世界第一名校.com | 哈尔滨体育学院 | www.hrbipe.edu.cn | |  
 | [华北停水停电大学.xyz](http://华北停水停电大学.xyz) | 华北电力大学(北京) | mail.ncepu.edu.cn |  |
-| [虚假的.多伦多大学.com](https://虚假的.多伦多大学.com) | University Of Toronto Mississauga | https://www.utm.utoronto.ca/ | |
+| [虚假的.多伦多大学.com](https://虚假的.多伦多大学.com) | University Of Toronto Mississauga | www.utm.utoronto.ca | |
+| [求仕创薪.top](http://求仕创薪.top) | 浙江大学 | www.zju.edu.cn | 求仕创薪.top |
+| [世一大.com](http://世一大.com) | 安徽大学 | www.ahu.edu.cn | 安徽说唱大专 |
 <!-- | 世界吃饭大学.com |  -->
 <!-- | 世界一流野鸡大学.com | ???挂了 | https://idealclover.github.io/Worst-University-in-China | | -->
 ~~广告位招租~~
 [markdown 文件下载](index.md)
 如果需要更新列表, 或者投稿备注 联系 `zsh@zsh2517.com`  [mailto链接](mailto:zsh@zsh2517.com)
-**如果开头标的日期 2020-02-26 12:12 前投稿的我没有回复或者未上榜可以重发提醒我。**
+**如果开头标的日期 2022-01-13 11:17 前投稿的我没有回复或者未上榜可以重发提醒我。**
 最好同时提供域名、实际解析地址、学校名称。如果可以最好加上注册商和注册时间
 
 <!-- <div style="color:red"> -->
