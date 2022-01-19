@@ -109,6 +109,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [求仕创薪.top](http://求仕创薪.top) | 浙江大学 | www.zju.edu.cn | 求仕创薪.top |
 | [世一大.com](http://世一大.com) | 安徽大学 | www.ahu.edu.cn | 安徽说唱大专 |
 | [世界一流学府.com](http://世界一流学府.com) | 山东科技大学 | www.sdust.edu.cn |  |
+| [世界一流大学.love](http://世界一流大学.love) | 沈阳师范大学 | www.synu.edu.cn | 充满爱的世界一流大学 |
 <!-- | 世界吃饭大学.com |  -->
 <!-- | 世界一流野鸡大学.com | ???挂了 | https://idealclover.github.io/Worst-University-in-China | | -->
 
