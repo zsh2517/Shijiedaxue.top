@@ -7,7 +7,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2022-01-13 11:17`，**如果此日期前投稿的我没有回复或者未上榜可以重发提醒我。**
+`update: 2022-02-13 12:17`，**如果此日期前投稿的我没有回复或者未上榜可以重发提醒我。**
 
 如果你希望在公开场合引用本网站，尽量 @ 一下我（Bilibili @[zsh2517](https://space.bilibili.com/87052411)，GitHub [zsh2517/Shijiedaxue.top](https://github.com/zsh2517/Shijiedaxue.top)）
 
@@ -15,7 +15,8 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 
 | 域名 | 内容 | 解析 | 备注 |
 | :-- | :-- | :-- | :-- |
-| 世界顶流大学.com | 北京交通大学 | cas.bjtu.edu.cn | emm...既然叫顶流，那么给一个顶上的位置 --admin |
+| ~~[世界顶流大学.com](世界顶流大学.com)~~ | ~~北京交通大学~~ | ~~cas.bjtu.edu.cn~~ | emm...既然叫顶流，那么给一个顶上的位置 --admin |
+| 世界顶流大学.com | 西北工业大学 | www.nwpu.edu.cn | 域名应该被重新注册了，新的指向是西北工业 |
 | 世界负二流大学.com | 杭州电子科技大学 | cas.hdu.edu.cn |  |
 | 世界负一流大学.com | 上海交通大学 | www.sjtu.edu.cn |  |
 | 世界一流大学.com | 北京大学 | www.pku.edu.cn | 就是它带的头(╯‵□′)╯︵┻━┻ |
@@ -110,6 +111,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [世一大.com](http://世一大.com) | 安徽大学 | www.ahu.edu.cn | 安徽说唱大专 |
 | [世界一流学府.com](http://世界一流学府.com) | 山东科技大学 | www.sdust.edu.cn |  |
 | [世界一流大学.love](http://世界一流大学.love) | 沈阳师范大学 | www.synu.edu.cn | 充满爱的世界一流大学 |
+| [世界顶级大学.com](http://世界顶级大学.com) | 重庆建筑工程职业学院 | www.cqjzc.edu.cn |  |
 <!-- | 世界吃饭大学.com |  -->
 <!-- | 世界一流野鸡大学.com | ???挂了 | https://idealclover.github.io/Worst-University-in-China | | -->
 
