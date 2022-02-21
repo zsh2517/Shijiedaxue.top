@@ -119,7 +119,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 
 [markdown 文件下载](index.md)
 
-如果需要更新列表, 或者投稿备注 联系 `zsh@zsh2517.com`  [mailto链接](mailto:zsh@zsh2517.com)
+如果需要更新列表, 或者投稿备注 联系 `sjdx.top@contact-me.email`  [mailto链接](mailto:sjdx.top@contact-me.email)
 
 **重要：我这里只是负责登记，需要自己购买域名并完成 DNS 解析！验证标准为通过提供域名（中文域名/其他域名）能够访问（301/302/隐性跳转/CNAME 等类型不限）**
 
