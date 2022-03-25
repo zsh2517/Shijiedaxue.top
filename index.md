@@ -7,7 +7,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 
 <a href="\附属中学\">世界大学附属中学</a> | <a href="http://世界大学.top">本站（导航站: 世界大学.top）</a>
 
-`update: 2022-02-13 12:17`，**如果此日期前投稿的我没有回复或者未上榜可以重发提醒我。**
+`update: 2022-03-25`，**如果此日期前投稿的我没有回复或者未上榜可以重发提醒我。**
 
 如果你希望在公开场合引用本网站，尽量 @ 一下我（Bilibili @[zsh2517](https://space.bilibili.com/87052411)，GitHub [zsh2517/Shijiedaxue.top](https://github.com/zsh2517/Shijiedaxue.top)）
 
@@ -24,7 +24,8 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | 世界四流大学.com | 清华大学信息门户系统 | info.tsinghua.edu.cn |  |
 | 世界末流大学.com | 武汉大学 | whu.edu.cn/coremail/index.jsp |  |
 | 隔壁.世界末流大学.com | 华中科技大学 | www.hust.edu.cn |  |
-| 世界超一流大学.com | 上海交通大学 | www.sjtu.edu.cn |  |
+| 世界超一流大学.com | ~~上海交通大学~~ | ~~www.sjtu.edu.cn~~ |  |
+| 世界超一流大学.com | 广西大学 | www.gxu.edu.cn |  |
 | 世界超二流大学.com | 复旦大学 | www.fudan.edu.cn | |
 | 国际一流大学.com | 哈尔滨工业大学 | www.hit.edu.cn |  |
 | 一流大学.com | 延世大学 | www.yonsei.ac.kr/en_sc/index.jsp |  |
