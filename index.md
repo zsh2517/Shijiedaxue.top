@@ -92,7 +92,7 @@ html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
 | [上方山皇家养老院.xyz](http://上方山皇家养老院.xyz) | 苏州大学文正学院 | www.sdwz.cn |
 | 世界吃饭大学.com | 南京师范大学 | www.njnu.edu.cn | 
 | [国内一流国际知名.top](http://国内一流国际知名.top) | 西安电子科技大学 | www.xidian.edu.cn |
-| [德玛西亚第一大学.xyz](http://德玛西亚第一大学.xyz) | 重庆师范大学涉外商贸学院 | www.swsm.edu.cn | 资深玩家|
+| ~~德玛西亚第一大学.xyz~~ | ~~重庆师范大学涉外商贸学院~~ | ~~www.swsm.edu.cn~~ | ~~资深玩家（学校没了）~~|
 | [世界一流军火.top](http://世界一流军火.top) | 南京理工大学校史馆 | xsg.njust.edu.cn |
 | [海底捞大学.网址](http://海底捞大学.网址) | 中国传媒大学 | www.cuc.edu.cn |
 | [隔壁.海底捞大学.网址](http://隔壁.海底捞大学.网址) | 北京第二外国语学院 | www.bisu.edu.cn |
